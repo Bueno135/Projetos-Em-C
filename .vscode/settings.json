@@ -1,7 +1,8 @@
 {
   "files.associations": {
     "Treino_1.C": "cpp",
-    "Treino2.C": "cpp"
+    "Treino2.C": "cpp",
+    "Treino_2.C": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
